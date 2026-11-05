@@ -1,5 +1,24 @@
 [
   {
+    "tag_name": "v0.2.4-beta3",
+    "name": "v0.2.4-beta3",
+    "prerelease": true,
+    "assets": [
+      {
+        "name": "Launcher-CircleOfLife.zip",
+        "size": 66421645,
+        "url": "https://github.com/AbhiKana/Zs_CircleOfLife_DL/releases/download/v0.2.4-beta3/Launcher-CircleOfLife.zip",
+        "updated_at": "2026-11-05T14:40:47Z"
+      },
+      {
+        "name": "ZS_CircleOfLife-windows.zip",
+        "size": 134844070,
+        "url": "https://github.com/AbhiKana/Zs_CircleOfLife_DL/releases/download/v0.2.4-beta3/ZS_CircleOfLife-windows.zip",
+        "updated_at": "2026-11-05T14:40:49Z"
+      }
+    ]
+  },
+  {
     "tag_name": "v0.2.4-beta1",
     "name": "v0.2.4-beta1",
     "prerelease": true,
